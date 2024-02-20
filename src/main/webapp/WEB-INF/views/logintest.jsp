@@ -56,7 +56,7 @@
 <%-- 나머지 코드 --%>
 
 <!-- 회원가입으로 가는 하이퍼링크 -->
-<div style="position: fixed; bottom: 10px; width: 100%; text-align: center;">
+<div style="position: fixed; bottom: 10%; width: 100%; text-align: center;">
     <h2><a href="/reg" style="color: grey; text-decoration: none;">회원이 아니신가요?</a></h2>
 </div>
 
