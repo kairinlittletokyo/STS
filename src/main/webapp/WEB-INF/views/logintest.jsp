@@ -47,12 +47,13 @@
 
 <!-- 로그인 폼 -->
 <div class="login-container">
-    <form action="/login" method="post" class="login-form">
+    <form action="/semiproject/home" method="post" class="login-form">
         <input type="text" name="username" placeholder="아이디를 입력해주세요."><br>
         <input type="password" name="password" placeholder="비밀번호를 입력해주세요."><br>
         <input type="submit" value="로그인">
     </form>
 </div>
+<%-- 나머지 코드 --%>
 
 <!-- 회원가입으로 가는 하이퍼링크 -->
 <div style="position: fixed; bottom: 10px; width: 100%; text-align: center;">
